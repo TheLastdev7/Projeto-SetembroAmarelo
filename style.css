@@ -55,7 +55,7 @@
 
     /* corpo */
     main {
-        background: url('./imgs/fundo.jpg');
+        background: url('./fundo.jpg');
         background-size: cover;
         margin: 0 auto;
         text-align: center;
